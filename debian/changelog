@@ -1,9 +1,0 @@
-ros-kinetic-thormang3-description (0.1.0-0jessie) jessie; urgency=high
-
-  * modified gripper pub
-  * applied ROS C++ Coding Style
-  * Contributors: ROBOTIS-zerom, s-changhyun, pyo
-
- -- pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
-
-
