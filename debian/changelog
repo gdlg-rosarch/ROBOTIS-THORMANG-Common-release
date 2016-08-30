@@ -1,8 +1,0 @@
-ros-kinetic-thormang3-common (0.1.0-0jessie) jessie; urgency=high
-
-  * first public release for Kinetic
-  * Contributors: s-changhyun, pyo
-
- -- pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
-
-
