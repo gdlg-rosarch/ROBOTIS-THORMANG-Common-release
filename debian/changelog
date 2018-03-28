@@ -1,0 +1,42 @@
+ros-kinetic-thormang3-description (0.2.0-0jessie) jessie; urgency=high
+
+  * refactoring to release
+  * changed license to Apache v2
+  * changed package.xml format to v2
+  * changed path of rviz file to new rviz folder
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 27 Mar 2018 15:00:00 -0000
+
+ros-kinetic-thormang3-description (0.1.3-0jessie) jessie; urgency=high
+
+  * updated the URDF file of Thormang3
+  * Contributors: SCH
+
+ -- Pyo <pyo@robotis.com>  Mon, 22 May 2017 15:00:00 -0000
+
+ros-kinetic-thormang3-description (0.1.2-0jessie) jessie; urgency=high
+
+  * modified rviz config file
+  * updated simulation
+  * updated config files
+  * Contributors: Kayman, SCH
+
+ -- Pyo <pyo@robotis.com>  Sun, 23 Apr 2017 15:00:00 -0000
+
+ros-kinetic-thormang3-description (0.1.1-0jessie) jessie; urgency=high
+
+  * modified rviz config file
+  * Contributors: Kayman
+
+ -- pyo <pyo@robotis.com>  Tue, 30 Aug 2016 15:00:00 -0000
+
+ros-kinetic-thormang3-description (0.1.0-0jessie) jessie; urgency=high
+
+  * modified gripper pub
+  * applied ROS C++ Coding Style
+  * Contributors: Zerom, SCH, Pyo
+
+ -- pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
